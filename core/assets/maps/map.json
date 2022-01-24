@@ -1,0 +1,16 @@
+{
+    "units":[
+    ],  
+    "terrain":[
+        "p,  c.b,p,  p,  w,  p,  p,  p,  p,  p,  p,  p,  w,  p,  p,  p",
+        "p,  r,  c,  w,  w,  m,  m,  m,  p,  p,  p,  p,  w,  p,  p,  p",
+        "p,  r,  f,  w,  p,  p,  p,  p,  m,  p,  p,  w,  w,  p,  p,  p",
+        "p,  r,  w,  w,  p,  p,  p,  m,  p,  p,  p,  w,  p,  p,  p,  p",
+        "p,  r,  r,  r,  r,  r,  m,  p,  m,  p,  p,  w,  p,  p,  p,  p",
+        "p,  p,  w,  p,  c,  r,  r,  r,  r,  p,  w,  w,  p,  f,  p,  p",
+        "p,  p,  w,  p,  p,  m,  m,  m,  r,  r,  r,  r,  r,  r,  r,  p",
+        "p,  p,  w,  w,  p,  m,  m,  p,  p,  c,  w,  p,  p,  p,  r,  p",
+        "p,  p,  p,  w,  w,  p,  p,  m,  p,  p,  w,  p,  p,c.r,  r,  p",
+        "p,  p,  p,  p,  w,  p,  p,  p,  m,  p,  w,  p,  p,  p,c.r,  p"
+    ]
+}
